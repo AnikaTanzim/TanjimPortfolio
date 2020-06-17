@@ -14,7 +14,7 @@
   transition: 0.5s;
 }
 
-/* line 14, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_blog.scss */
+/* line 14, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_blog.scss 
 .blog_area a:hover, .blog_area a :hover {
   background: -webkit-linear-gradient(131deg, #615CFD 0%, #615CFD 99%);
   -webkit-background-clip: text;
@@ -22,7 +22,7 @@
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
-}
+}*/
 
 /* line 24, ../../Arafath/CL/CL October/218 PORTFOLIO/HTML/scss/_blog.scss */
 .single-blog {
