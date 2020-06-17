@@ -1,0 +1,121 @@
+/*navbar*/
+
+.bg-light {
+    background-color: white!important;
+}
+
+
+
+
+.body {
+    margin-top: 75px;
+}
+
+.hex {
+    background-color: white;
+    padding-top: 40%;
+}
+
+.body h3 {
+    color: rgba(25, 26, 30, 0.4);
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+
+.body h1 {
+    line-height: 26px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 400;
+}
+
+.body span {
+    color: #3b3a3a;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    background-color:#282829 ;
+	
+}
+
+.carousel-control-prev {
+    left: 20px;
+}
+
+
+
+.carousel-control-next:hover .expands {
+    transform: translate(60%, 00%);
+    transition: 0.2s;
+}
+
+.carousel-control-prev:hover .expands {
+    transform: translate(-60%, 00%);
+    transition: 0.2s;
+}
+
+.work .jumbotron {
+    transition: 0.3s;
+    background-color: #fff;
+    margin-left: 20px;
+}
+
+.work {
+    margin-bottom: 150px;
+}
+
+.work .jumbotron:hover {
+    transform: translate(0%, 0%);
+    transition: 0.2s;
+    background-color: #282829;
+    box-shadow: 0 20px 50px rgba(0, 0, 255, 0.1);
+}
+
+.work .jumbotron .col-6 {
+    float: left;
+    text-align: center;
+}
+
+.work .jumbotron {
+    margin-top: 40px;
+	margin-left:0px;
+    background-color: #282829;
+    text-align: center;
+    padding-bottom: 90px;
+    box-shadow: 0 20px 50px rgba(0, 0, 255, 0.1);
+	color: white;
+	border-bottom: 20px solid #780704;
+	width:900px;
+	height: 500px;
+	
+}
+
+.work .jumbotron h1 {
+    color:white ;
+    padding-top: 10%;
+    padding-bottom: 5%;
+}
+
+h1 {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.work {
+    padding-top: 30px;
+}
+
+.bd {
+    margin-left: 20%;
+}
+
+.hex h1 {
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+/**/
+.quote {
+      display: block;
+      font-size: 80px;
+      font-family: 'Georgia', serif; }

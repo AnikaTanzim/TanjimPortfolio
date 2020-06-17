@@ -1,0 +1,94 @@
+
+.am{
+	padding-top: 75px;
+}
+.about_me {
+  padding-top: 75px;
+  padding-bottom: 150px;
+  position: relative;
+}
+
+@media (max-width: 767px) {
+  
+  .about_me {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  
+  .about_me {
+    padding-bottom: 100px;
+  }
+}
+
+.about_me .about_large_title {
+  font-weight: 800;
+  color: #F5F6F7;
+  font-size: 235px;
+  position: absolute;
+  left: 21%;
+  top: 0;
+  line-height: 1;
+}
+
+@media (max-width: 767px) {
+  
+  .about_me .about_e_details {
+    margin-bottom: 30px;
+  }
+}
+
+
+.about_me .about_e_details h3 {
+  font-size: 50px;
+  font-weight: 700;
+  color: #001D38;
+}
+
+.about_me .about_e_details p {
+  font-size: 15px;
+  font-weight: 400;
+  color: #727272;
+  margin-top: 20px;
+  margin-bottom: 36px;
+}
+
+.about_me .about_img {
+  position: relative;
+  margin-top:30px;
+}
+
+.about_me .about_img .color_pattern {
+  position: absolute;
+  right: -80px;
+  top: -123px;
+  z-index: -1;
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  
+  .about_me .about_img .color_pattern {
+    right: 0;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1500px) {
+  
+  .about_me .about_img .color_pattern {
+    right: 0;
+  }
+}
+
+
+.about_me .about_img .my_Pic img {
+  width: 100%;
+  
+  
+}
+
+
+.project_area {
+  padding-bottom: 150px;
+}
